@@ -1,0 +1,1 @@
+# terraform_azurerm_container_registry
